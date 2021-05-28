@@ -1,5 +1,4 @@
-<h1  align="center" ><pre>// Hello World_<pre>  </h1>
-<h3  align="center" > It's me, Manuel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h3>
+<h3  align="center" >Hello World, It's me, Manuel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h3>
   
 **💬 About me:**
 <p> 
