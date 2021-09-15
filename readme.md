@@ -22,13 +22,13 @@
 
 <div align="center">
         
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mannusho&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manuelrtz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
         
 </div>
     
 <div align="center">
         
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mannusho&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelrtz&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
         
 </div>
 
